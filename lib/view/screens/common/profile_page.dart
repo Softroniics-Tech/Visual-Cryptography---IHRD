@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:encrypta/worker/auth_user/login_page.dart';
+import 'package:encrypta_completed/view/auth/login_reisgter.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
