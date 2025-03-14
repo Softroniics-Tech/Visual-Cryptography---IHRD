@@ -4,8 +4,8 @@ import 'dart:math';
 import 'dart:typed_data';
 import 'dart:async';
 
-import 'package:encrypta_completed/constands/history_page.dart';
-import 'package:encrypta_completed/model/services/visual_cryptography_service.dart';
+import 'package:encrypta/constands/history_page.dart';
+import 'package:encrypta/model/services/visual_cryptography_service.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

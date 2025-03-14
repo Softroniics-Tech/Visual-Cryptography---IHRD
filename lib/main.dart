@@ -1,5 +1,5 @@
-import 'package:encrypta_completed/view/auth/login_reisgter.dart';
-import 'package:encrypta_completed/view/screens/on_start_page/custom_navbar.dart';
+import 'package:encrypta/view/auth/login_reisgter.dart';
+import 'package:encrypta/view/screens/on_start_page/custom_navbar.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_app_check/firebase_app_check.dart';

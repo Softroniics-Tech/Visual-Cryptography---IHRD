@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:encrypta_completed/view/screens/manager/manager_chat_screen.dart';
+import 'package:encrypta/view/screens/manager/manager_chat_screen.dart';
 
 class ManagerChatListScreen extends StatefulWidget {
   const ManagerChatListScreen({super.key});

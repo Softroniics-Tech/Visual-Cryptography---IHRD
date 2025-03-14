@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:encrypta_completed/constands/colors.dart';
-import 'package:encrypta_completed/constands/history_page.dart';
-import 'package:encrypta_completed/view/screens/common/profile_page.dart';
-import 'package:encrypta_completed/view/screens/manager/manager_chatlist_screen.dart';
-import 'package:encrypta_completed/view/screens/manager/manager_screen.dart';
-import 'package:encrypta_completed/view/screens/worker/user_chat_screen.dart';
-import 'package:encrypta_completed/view/screens/worker/user_home_screen.dart';
+import 'package:encrypta/constands/colors.dart';
+import 'package:encrypta/constands/history_page.dart';
+import 'package:encrypta/view/screens/common/profile_page.dart';
+import 'package:encrypta/view/screens/manager/manager_chatlist_screen.dart';
+import 'package:encrypta/view/screens/manager/manager_screen.dart';
+import 'package:encrypta/view/screens/worker/user_chat_screen.dart';
+import 'package:encrypta/view/screens/worker/user_home_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
