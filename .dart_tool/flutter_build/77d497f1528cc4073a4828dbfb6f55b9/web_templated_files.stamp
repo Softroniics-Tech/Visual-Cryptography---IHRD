@@ -1,0 +1,1 @@
+{"inputs":["D:\\IHRD\\encrypta\\web\\*\\index.html","D:\\IHRD\\encrypta\\web\\flutter_bootstrap.js","C:\\src\\flutter\\bin\\internal\\engine.version"],"outputs":["D:\\IHRD\\encrypta\\build\\web\\*\\index.html","D:\\IHRD\\encrypta\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}

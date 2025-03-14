@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\mhdfa\AppData\Local\Pub\Cache\hosted\pub.dev\pdf_render-1.4.12\android\.cxx\Debug\zj731n2r\armeabi-v7a'
+ninja: no work to do.
